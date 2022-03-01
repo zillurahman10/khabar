@@ -1,0 +1,22 @@
+body{
+    background-image: url(images/pngtree-blockchain-big-data-mobile-phone-technology-image_11331.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#show-phone{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+#read-more{
+    border: none;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    margin: 5px;
+    border-radius: 20px;
+}
+#read-more:hover{
+background-color: gray;
+color: white;
+}
