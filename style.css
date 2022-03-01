@@ -20,3 +20,37 @@ body{
 background-color: gray;
 color: white;
 }
+.redius{
+border-radius: 50px;
+}
+.home{
+    color: white;
+    text-decoration: none;
+}
+.home:hover{
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.offer{
+    color: white;
+    text-decoration: none;
+}
+.offer:hover{
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.login{
+    color: white;
+    text-decoration: none;
+}
+.login:hover{
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
