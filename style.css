@@ -1,5 +1,8 @@
+/* *{
+    overflow-x: hidden;
+} */
 body{
-    background-image: url(images/pngtree-blockchain-big-data-mobile-phone-technology-image_11331.jpg);
+    background-image: url(images/istockphoto-1315891458-170667a.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -26,31 +29,40 @@ border-radius: 50px;
 .home{
     color: white;
     text-decoration: none;
+    padding: 5px 10px;
 }
 .home:hover{
     color: black;
     background-color: white;
     border-radius: 10px;
-    padding: 5px 10px;
+    
 }
 .offer{
     color: white;
     text-decoration: none;
+    padding: 5px 10px;
 }
 .offer:hover{
     color: black;
     background-color: white;
     border-radius: 10px;
-    padding: 5px 10px;
+
 }
 .login{
     color: white;
     text-decoration: none;
+    padding: 5px 10px;
 }
 .login:hover{
     color: black;
     background-color: white;
     border-radius: 10px;
-    padding: 5px 10px;
-}
 
+}
+#button-search{
+    border: none;
+    background-color: gray;
+    color: white;
+    padding: 10px ;
+    border-radius: 5px;
+}
