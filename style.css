@@ -7,9 +7,8 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
 }
-#show-phone{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+.just{
+    justify-content: center;
 }
 #read-more{
     border: none;
@@ -23,7 +22,7 @@ body{
 background-color: gray;
 color: white;
 }
-.redius{
+.redius-1{
 border-radius: 50px;
 }
 .home{
@@ -59,10 +58,9 @@ border-radius: 50px;
     border-radius: 10px;
 
 }
-#button-search{
-    border: none;
-    background-color: gray;
-    color: white;
-    padding: 10px ;
-    border-radius: 5px;
+.card-style{
+    width: 18rem;
+}
+.redius{
+    border-radius: 40px;
 }
