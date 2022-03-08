@@ -24,6 +24,7 @@ const displayPhone = data => {
         document.getElementById('error').innerHTML = `No phone found`
     }
     else {
+        document.getElementById('error').innerHTML = ''
         phones.forEach(phone => {
             const div = document.createElement('div')
             div.textContent = '';
