@@ -1,66 +1,64 @@
-/* *{
-    overflow-x: hidden;
-} */
-body{
-    background-image: url(images/istockphoto-1315891458-170667a.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;
+* {
+    color: black;
 }
-.just{
+
+.just {
     justify-content: center;
 }
-#read-more{
+
+#read-more {
     border: none;
     padding: 10px;
     background-color: blue;
-    color: white;
     margin: 5px;
     border-radius: 20px;
 }
-#read-more:hover{
-background-color: gray;
-color: white;
+
+#read-more:hover {
+    background-color: gray;
 }
-.redius-1{
-border-radius: 50px;
+
+.redius-1 {
+    border-radius: 50px;
 }
-.home{
-    color: white;
+
+.home {
     text-decoration: none;
     padding: 5px 10px;
 }
-.home:hover{
+
+.home:hover {
     color: black;
-    background-color: white;
-    border-radius: 10px;
-    
-}
-.offer{
-    color: white;
-    text-decoration: none;
-    padding: 5px 10px;
-}
-.offer:hover{
-    color: black;
-    background-color: white;
     border-radius: 10px;
 
 }
-.login{
-    color: white;
+
+.offer {
     text-decoration: none;
     padding: 5px 10px;
 }
-.login:hover{
+
+.offer:hover {
     color: black;
-    background-color: white;
     border-radius: 10px;
 
 }
-.card-style{
+
+.login {
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.login:hover {
+    color: black;
+    border-radius: 10px;
+
+}
+
+.card-style {
     width: 18rem;
 }
-.redius{
+
+.redius {
     border-radius: 40px;
 }
